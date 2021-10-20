@@ -1,0 +1,33 @@
+.title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  width: 350px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+
+  box-sizing: border-box;
+
+  background: green;
+  /* display: flex; */
+}
+.recipe-link {
+  font-size: 20px;
+}
+h1 {
+}
+body {
+  background: aquamarine;
+}
+/* .recipe-listing {
+  display: flex;
+} */
+
+* {
+  border: 2px solid red;
+}
+
+/* .block {
+  display: block;
+} */
