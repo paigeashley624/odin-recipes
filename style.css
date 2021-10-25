@@ -5,11 +5,11 @@
   height: 150px;
   margin: 10px;
   padding: 25px;
-  border: 5px solid black;
+  /* border: 5px solid black; */
 
   box-sizing: border-box;
 
-  background: green;
+  /* background: green; */
   /* display: flex; */
 }
 .recipe-link {
@@ -24,9 +24,9 @@ body {
   display: flex;
 } */
 
-* {
+/* * {
   border: 2px solid red;
-}
+} */
 
 /* .block {
   display: block;
